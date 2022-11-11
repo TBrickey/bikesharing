@@ -37,5 +37,5 @@ Male subscribers utiliz bikes more frequently.
 
 ![TBrickey](https://github.com/TBrickey/bikesharing/blob/main/Screenshot/User%20trips%20by%20Gender%20by%20weekday.png)
 
-
-
+## Summary
+Bike Sharing business will rely heavily on Male subscribers. An additional visualization would be to review high traffic places for top starting and ending locations and determine use cases. Are bikes being used to get to work from other public transpiration or are bike sharing more used for fun activities. Adding Des Moines tourist data and high traffic areas could help convince investors to contribute.  
