@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 Module 14 Challenge: NY Citibike with Tableau
 
