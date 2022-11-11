@@ -11,15 +11,15 @@ Convince investors to invest in a bike-sharing program in Des Moines using NYC b
 
 Visualization the data we can see peak hours are rush hour and midday. 
 
-![TBrickey](https://github.com/TBrickey/bikesharing/blob/main/Screenshot/August%20Peak%20Hours.png)
+  ![TBrickey](https://github.com/TBrickey/bikesharing/blob/main/Screenshot/August%20Peak%20Hours.png)
 
 There are more male customers than any other gender.
 
-![TBrickey](https://github.com/TBrickey/bikesharing/blob/main/Screenshot/Gender%20Breakdown.png)
+  ![TBrickey](https://github.com/TBrickey/bikesharing/blob/main/Screenshot/Gender%20Breakdown.png)
 
 The majority of trips are less than 30 minutes long.
 
-![TBrickey](https://github.com/TBrickey/bikesharing/blob/main/Screenshot/Checkout%20Times%20for%20Users.png)
+  ![TBrickey](https://github.com/TBrickey/bikesharing/blob/main/Screenshot/Checkout%20Times%20for%20Users.png)
 
 Male customers use bike share more and for longer periods of time than other genders.
 
